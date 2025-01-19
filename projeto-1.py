@@ -1,4 +1,4 @@
-# Python.2
+
 def encontrar_maior_menor_numeros(sequencia):
     if not sequencia:
         return None, None  # Retorna None se a sequência estiver vazia
